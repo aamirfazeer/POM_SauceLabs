@@ -341,22 +341,3 @@ GitHub Actions will automatically run tests on your push!
    git remote set-url origin git@github.com:<username>/<repo>.git
    ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-Naveen AutomationLabs
-
----
-
-⭐️ If you found this project helpful, please give it a star!
