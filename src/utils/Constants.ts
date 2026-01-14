@@ -20,8 +20,8 @@ export class Constants {
   static readonly SAUCE_LABS_BACKPACK = 'Sauce Labs Backpack';
 
   // Success Messages
-  static readonly ORDER_COMPLETE_MESSAGE = 'Thank you for your order!';
-  static readonly ORDER_COMPLETE_HEADER = 'THANK YOU FOR YOUR ORDER';
+  static readonly ORDER_COMPLETE_MESSAGE = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!';
+  static readonly ORDER_COMPLETE_HEADER = 'Thank you for your order!';
 
   // Error Messages
   static readonly INVALID_CREDENTIALS_ERROR = 'Epic sadface: Username and password do not match any user in this service';
