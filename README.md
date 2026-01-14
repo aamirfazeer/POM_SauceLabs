@@ -180,6 +180,7 @@ Each page of the application has a corresponding page object class:
   - Complete workflow test (login → add to cart → checkout → complete order)
   - Individual component tests
   - Negative test cases (error handling)
+- **framework-demo.spec.ts**: Demonstrates the POM framework structure
 
 ### Configuration
 - **playwright.config.ts**: Configured for cross-browser testing, parallel execution, and CI/CD
@@ -341,3 +342,44 @@ GitHub Actions will automatically run tests on your push!
    git remote set-url origin git@github.com:<username>/<repo>.git
    ```
 
+## 🧪 Test Coverage
+
+The test suite includes:
+
+- ✅ Complete e-commerce workflow (end-to-end)
+- ✅ Login functionality (positive and negative tests)
+- ✅ Product addition to cart
+- ✅ Cart management
+- ✅ Checkout form validation
+- ✅ Order review
+- ✅ Order completion verification
+- ✅ Error handling for invalid inputs
+
+## 📚 Technologies Used
+
+- **Playwright** - Modern end-to-end testing framework
+- **TypeScript** - Type-safe JavaScript
+- **Node.js** - JavaScript runtime
+- **GitHub Actions** - CI/CD automation
+
+## 📝 License
+
+This project is licensed under the ISC License.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📧 Contact
+
+For questions or issues, please open an issue on GitHub.
+
+---
+
+⭐️ If you found this project helpful, please give it a star!
